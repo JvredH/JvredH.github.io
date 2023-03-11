@@ -230,7 +230,8 @@ a:hover {
 /*------/ Ul resect /------*/
 
 .resume {
-  color: rgb(12, 141, 185)
+  color: rgb(12, 141, 185);
+  text-decoration: underline;
 }
 
 .ul-resect,
